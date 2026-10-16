@@ -25,10 +25,6 @@ Loop: get cold → catch a cold → grind a remedy by hand → recover faster.
 and the .NET 10 runtime, and writes the zip to `build/`. The game path defaults to
 `%APPDATA%\Vintagestory` (override with `VS_GAME=...`).
 
-For local testing, `./build-local.sh` builds and installs into
-`%APPDATA%\VintageStoryData_MyMods\Mods` (override with `VS_MODS=...`).
-The local script and generated `build/` folder are ignored by Git; `build.sh` is shared.
-
 ## Layout
 
 - `src/HealersCraftMod.cs`: empty ModSystem; register your item classes in `Start`
