@@ -1,0 +1,7 @@
+{
+	"item-mortar": "Hand mortar",
+	"itemdesc-mortar": "Hold right mouse with catmint in your offhand to grind it into a remedy. Let go at the right moment: too early is weak, too late is mush.",
+
+	"gamemechanicinfo-healing-title": "Game Mechanic: Sickness and healing",
+	"gamemechanicinfo-healing-text": "<strong>Catching a cold</strong><br>Staying cold for too long can give you a cold, and being wet makes it more likely. While you are sick you get hungry faster and recover stamina more slowly, and you cough now and then. A cold passes on its own, sooner if you keep warm.<br><br><strong>The hand mortar</strong><br>Craft a <a href=\"handbook://item-healerscraft:mortar\">hand mortar</a> from a stick and two loose stones. Hold <a href=\"handbook://block-flower-catmint-free\">catmint</a> in your offhand and hold <hk>rightmouse</hk> with the mortar to grind it.<br><br>The mortar does not stop by itself. Listen and watch as you grind: crackling means the herb is still coarse, a soft swish means it is fine, and a wet squelch means you went too far. Let go at the right moment:<br>- too early: a weak remedy<br>- just right: a strong remedy<br>- too late: mush, and the herb is wasted"
+}

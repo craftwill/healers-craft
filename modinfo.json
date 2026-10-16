@@ -1,0 +1,12 @@
+{
+  "type": "code",
+  "modid": "healerscraft",
+  "name": "Healer's Craft: Sickness & Remedies",
+  "version": "0.1.0",
+  "authors": ["Ptitloup123"],
+  "description": "Catch a cold in the cold and wet, then grind your own remedies by hand.",
+  "side": "Universal",
+  "requiredOnClient": true,
+  "requiredOnServer": true,
+  "dependencies": { "game": "1.22.0" }
+}

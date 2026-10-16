@@ -1,0 +1,7 @@
+{
+	"item-mortar": "Mortier à main",
+	"itemdesc-mortar": "Maintenez le clic droit avec de l'herbe à chat dans la main secondaire pour la broyer en remède. Relâchez au bon moment : trop tôt, le remède est faible ; trop tard, ce n'est plus que de la bouillie.",
+
+	"gamemechanicinfo-healing-title": "Mécanique de jeu : Maladie et guérison",
+	"gamemechanicinfo-healing-text": "<strong>Attraper un rhume</strong><br>Rester trop longtemps dans le froid peut vous enrhumer, et être mouillé rend la chose plus probable. Quand vous êtes malade, vous avez faim plus vite, vous récupérez votre endurance plus lentement et vous toussez de temps en temps. Un rhume passe tout seul, plus vite si vous restez au chaud.<br><br><strong>Le mortier à main</strong><br>Fabriquez un <a href=\"handbook://item-healerscraft:mortar\">mortier à main</a> avec un bâton et deux pierres. Tenez de l'<a href=\"handbook://block-flower-catmint-free\">herbe à chat</a> dans la main secondaire et maintenez <hk>rightmouse</hk> avec le mortier pour la broyer.<br><br>Le mortier ne s'arrête pas tout seul. Écoutez et regardez pendant que vous broyez : un crépitement signifie que l'herbe est encore grossière, un léger frottement qu'elle est fine, et un bruit mouillé que vous êtes allé trop loin. Relâchez au bon moment :<br>- trop tôt : un remède faible<br>- au bon moment : un remède puissant<br>- trop tard : de la bouillie, et l'herbe est perdue"
+}

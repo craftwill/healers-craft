@@ -1,0 +1,26 @@
+{
+    "code": "mortar",
+    "class": "healerscraft.ItemMortar",
+    "shape": { "base": "item/mortar" },
+    "textures": {
+		"oak": { "base": "game:block/wood/debarked/oak" },
+		"stone": { "base": "game:block/stone/rock/granite1" },
+		"twine": { "base": "game:block/linen" }
+	},
+    "durability": 400,
+	"guiTransform": {
+        "translation": { "x": 0, "y": 1, "z": 0 },
+        "rotation": { "x": -30, "y": -46, "z": -180 },
+        "scale": 1.18
+    },
+    "heldTpIdleAnimation": "holdbothhandslarge",
+    "tpHandTransform": {
+        "translation": { "x": -0.9, "y": -0.14, "z": -1.35 },
+        "rotation": { "x": -8, "y": 19, "z": -97 },
+        "origin": { "x": 0.5, "y": 0, "z": 0.5 },
+        "scale": 0.52
+    },
+    "maxstacksize": 1,
+	"materialDensity": 600,
+	"creativeinventory": { "general": ["*"], "items": ["*"] }
+}
